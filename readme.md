@@ -3,7 +3,7 @@
 ## Tổng quan
 
 Đây là tài liệu mô tả giao thức chat được thiết kế cho ứng dụng message broadcasting. Giao thức này cho phép nhiều client kết nối đến server và chat với nhau trong thời gian thực.
-
+Bởi Phan Vũ Liêm - 22025504 và Đỗ Trí Dũng - 22025501
 ## 1. Thiết kế Giao thức
 
 ### 1.1 Cấu trúc Message
